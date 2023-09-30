@@ -1,0 +1,7 @@
+[
+    { "type" : "dzik", "latitude" : "50.0032122", "longitude" : "19.9122465", "cost" : "0", "timestamp" : "12:00 21/09/2023" },
+    { "type" : "damage", "latitude" : "50.062013944101736", "longitude" : "19.890277053521874", "cost" : "300", "timestamp" : "21:04 24/09/2023" },
+    { "type" : "lasica", "latitude" : "50.00096665553079", "longitude" : "19.91751957852843", "cost" : "0", "timestamp" : "17:43 25/09/2023" },
+    { "type" : "dzik", "latitude" : "50.002141153910436", "longitude" : "19.912139611449593", "cost" : "0", "timestamp" : "11:21 26/09/2023" },
+	{ "type" : "lasica", "latitude" : "50.04096665553079", "longitude" : "19.92751957852843", "cost" : "0", "timestamp" : "19:43 25/09/2023" }
+]
