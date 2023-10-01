@@ -1,7 +1,94 @@
 [
-    { "type" : "dzik", "latitude" : "50.0032122", "longitude" : "19.9122465", "cost" : "0", "timestamp" : "12:00 21/09/2023" },
-    { "type" : "damage", "latitude" : "50.062013944101736", "longitude" : "19.890277053521874", "cost" : "300", "timestamp" : "21:04 24/09/2023" },
-    { "type" : "lasica", "latitude" : "50.00096665553079", "longitude" : "19.91751957852843", "cost" : "0", "timestamp" : "17:43 25/09/2023" },
-    { "type" : "dzik", "latitude" : "50.002141153910436", "longitude" : "19.912139611449593", "cost" : "0", "timestamp" : "11:21 26/09/2023" },
-	{ "type" : "lasica", "latitude" : "50.04096665553079", "longitude" : "19.92751957852843", "cost" : "0", "timestamp" : "19:43 25/09/2023" }
+  {
+    "type": "Boar",
+    "latitude": "50.0032122",
+    "longitude": "19.9222465",
+    "cost": "0",
+    "timestamp": "12:00 21/09/2023",
+    "info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": false
+  },
+  {
+    "type": "Damage",
+    "latitude": "50.062013944101736",
+    "longitude": "19.890277053521874",
+    "cost": "300",
+    "timestamp": "21:04 24/09/2023",
+	"info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": true
+  },
+  {
+    "type": "Weasel",
+    "latitude": "50.00096665553079",
+    "longitude": "19.93751957852843",
+    "cost": "0",
+    "timestamp": "17:43 25/09/2023",
+	"info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": false
+  },
+  {
+    "type": "Boar",
+    "latitude": "50.002141153910436",
+    "longitude": "19.912139611449593",
+    "cost": "0",
+    "timestamp": "11:21 26/09/2023",
+	"info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": false
+  },
+  {
+    "type": "Weasel",
+    "latitude": "50.04096665553079",
+    "longitude": "19.92751957852843",
+    "cost": "0",
+    "timestamp": "19:43 25/09/2023",
+    "faceId": 0,
+	"info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": false
+  },
+  {
+    "type": "Boar",
+    "latitude": "50.032141153910436",
+    "longitude": "19.942139611449593",
+    "cost": "0",
+    "timestamp": "11:21 26/09/2023",
+    "faceId": 1,
+	"info": "Report to: Centrum Zarzadzania Kryzysowego, ul. Rozrywka 26, 31-419 Krakow caloodobowy tel. alarmowy 12 616 59 99",
+	"confirmed": false
+  },
+  {
+    "type": "Boar",
+    "latitude": "50.007002260248505",
+    "longitude": "19.905275903191026",
+    "cost": "0",
+    "timestamp": "21:37 26/09/2023",
+	"info": "Report to: Wydzial Ksztaltowania Srodowiska UMK (w godzinach 7.30 do 15.30), os. Zgody 2, Krakow, tel. nr 12 616 88 86",
+	"confirmed": true
+  },
+  {
+    "type": "Damage",
+    "latitude": "50.042217091028064",
+    "longitude": "19.93288654348385",
+    "cost": "450",
+    "timestamp": "9:23 27/09/2023",
+	"info": "Report to: Wydzial Ksztaltowania Srodowiska UMK (w godzinach 7.30 do 15.30), os. Zgody 2, Krakow, tel. nr 12 616 88 86",
+	"confirmed": false
+  },
+  {
+    "type": "Damage",
+    "latitude": "50.00766049904417",
+    "longitude": "19.926519841886993",
+    "cost": "250",
+    "timestamp": "9:43 27/09/2023",
+	"info": "Report to: Wydzial Ksztaltowania Srodowiska UMK (w godzinach 7.30 do 15.30), os. Zgody 2, Krakow, tel. nr 12 616 88 86",
+	"confirmed": false
+  },
+  {
+    "type": "Fox",
+    "latitude": "50.059683",
+    "longitude": "19.944544",
+    "cost": "250",
+    "timestamp": "11:43 27/09/2023",
+	"info": "Report to: Wydzial Ksztaltowania Srodowiska UMK (w godzinach 7.30 do 15.30), os. Zgody 2, Krakow, tel. nr 12 616 88 86",
+	"confirmed": false
+  }
 ]
