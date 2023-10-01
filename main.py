@@ -5,6 +5,7 @@ from PIL import Image
 import folium
 from typing import List, Dict, Optional
 import argparse
+from pathlib import Path
 
 random.seed(39)
 
@@ -94,9 +95,11 @@ class AnimalMap:
             info = location.get("info", None)
             is_confirmed = location.get("confirmed", None)
 
-            img_path = f"{animal_type}_confirmed.png" if is_confirmed else f"{animal_type}.png"
+            img_base_path = Path("./images")
+            icon_name = f"{animal_type}_confirmed.png" if is_confirmed else f"{animal_type}.png"
+            img_path = img_base_path / icon_name
             custom_icon = folium.CustomIcon(
-                icon_image=img_path,
+                icon_image=str(img_path),
                 icon_size=(40, 40),
                 icon_anchor=(20, 40)
             )
